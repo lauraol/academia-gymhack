@@ -1,4 +1,4 @@
-# Academia Gymhack
+# Academia Gymhack 💪
 
 ### Tópicos
 - [Descrição do projeto][1]
