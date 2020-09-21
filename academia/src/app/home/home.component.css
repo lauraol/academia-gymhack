@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+.bg {
+  background-image: url(../../assets/img/fundoum.jpeg);
+  height: 100vh;
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+.btn-academia {
+  top: 40px;
+  left: 130px;
+  width: 217px;
+  height: 48px;
+  background: transparent linear-gradient(102deg, #fc0441 0%, #f62da8 100%) 0%
+    0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  font-family: "Noto Sans", sans-serif;
+  color: white;
+}
+
+.btn-entrar {
+  top: 40px;
+  left: 919px;
+  width: 144px;
+  height: 48px;
+  background: lightgray 0% 0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  color: white;
+}
+
+.btn-cadastro {
+  top: 40px;
+  left: 1079px;
+  width: 144px;
+  height: 48px;
+  background: transparent linear-gradient(108deg, #fc0441 0%, #f62da8 100%) 0%
+    0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  font-family: "Noto Sans", sans-serif;
+  color: white;
+}
+
+.logo {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.saiba-mais {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-family: "Noto Sans", sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.btn-saiba-mais {
+  font-family: "Noto Sans", sans-serif;
+  color: white;
+  top: 563px;
+  left: 484px;
+  width: 144px;
+  height: 48px;
+  background: #ffffff26 0% 0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  margin-right: 30px;
+}

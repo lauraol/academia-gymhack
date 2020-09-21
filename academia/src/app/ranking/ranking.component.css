@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+.bg {
+  background: #101425 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+
+.setinha {
+  margin-left: 5px;
+}
+
+.foto-perfil {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-bottom: 15px;
+}
+
+.bg-foto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../assets/img/wallpaper.png);
+}
+
+.colocados {
+  display: flex;
+}
+
+.foto-campeao {
+  display: flex;
+  justify-content: center;
+}
+
+.foto,
+.foto-dois {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-top: 40px;
+}
+
+.foto-dois {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.descricao {
+  font-family: "Noto Sans", sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 0.5em;
+  margin-top: 10px;
+}
+
+.btn-cor {
+  top: 619px;
+  left: 330px;
+  width: 707px;
+  height: 60px;
+  background: #fb0c55 0% 0% no-repeat padding-box;
+  border-radius: 13px;
+  opacity: 1;
+}
+
+.rank-btn {
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  padding-top: 10px;
+}
+
+.conteudo-busca {
+  display: flex;
+  justify-content: center;
+}
+
+.busca {
+  margin-top: 50px;
+  top: 768px;
+  left: 327px;
+  width: 712px;
+  height: 66px;
+  border-radius: 50px;
+}
+
+.btn-rosa {
+  border-radius: 50px;
+  margin-top: 50px;
+  margin-left: 15px;
+  width: 150px;
+  height: 66px;
+  background: transparent linear-gradient(108deg, #fc0441 0%, #f62da8 100%) 0%
+    0% no-repeat padding-box;
+  opacity: 1;
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+}
