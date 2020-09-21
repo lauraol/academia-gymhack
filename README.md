@@ -30,6 +30,9 @@ academia-gymhack.vercel.app/home
 No terminal, clone o projeto:
 > https://github.com/lauraol/academia-gymhack.git
 
+Em seguida execute o comando para instalar as dependências necessárias:
+ `npm install`
+
 Ainda no Terminal digite o comando abaixo:
 `cd academia` 
 
